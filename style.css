@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.mango{
+    justify-content: center;
+    /* position: absolute; */
+    align-items: center;
+}
